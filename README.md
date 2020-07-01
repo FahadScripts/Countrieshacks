@@ -1,4 +1,4 @@
-# Countrieshacks
+# World Mafia
 
 
 Commands No 1 :
